@@ -1,7 +1,7 @@
 # hospital_management_backend
 using node.js and Mysql
 
-# Psychiatry Hospital Management System
+# Hospital Management System
 This project is a  Hospital Management System that provides APIs for managing psychiatrists, patients, and hospitals.
 
 ## Frameworks Used
